@@ -6,6 +6,7 @@
     <el-button type="info">信息按钮</el-button>
     <el-button type="warning">警告按钮</el-button>
     <el-button type="danger">危险按钮</el-button>
+    <h1>wujian</h1>
   </el-row>
 </template>
 
